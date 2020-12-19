@@ -1,3 +1,3 @@
 print("Hello")
 print("Hello World")
-print("My pretty Wakachan")
+print("My pretty Wakanachan")
